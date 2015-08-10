@@ -1,0 +1,279 @@
+*Dtfile*view_count:	5
+#
+*Dtfile*showFilesystem:	True
+#
+*Dtfile*restrictMode:	False
+#
+*Dtfile*openDir:	CURRENT
+#
+*Dtfile.0.iconify:   True
+*Dtfile.0.workspace: ws0
+*Dtfile.0.FileMgr.displayed:	True
+*Dtfile.0.FileMgr.x:	457
+*Dtfile.0.FileMgr.y:	0
+*Dtfile.0.FileMgr.width:	555
+*Dtfile.0.FileMgr.height:	400
+*Dtfile.0.FileMgr.show_type:	single_directory
+*Dtfile.0.FileMgr.tree_files:	never
+*Dtfile.0.FileMgr.view_single:	by_name_and_icon
+*Dtfile.0.FileMgr.view_tree:	by_name_and_small_icon
+*Dtfile.0.FileMgr.order:	order_by_alphabetical
+*Dtfile.0.FileMgr.direction:	direction_ascending
+*Dtfile.0.FileMgr.positionEnabled:	random_off
+*Dtfile.0.FileMgr.host:	ladybug
+*Dtfile.0.FileMgr.current_directory:	/Net/hydra/home5/t
+*Dtfile.0.FileMgr.branch_list:	4:/Net/hydra/home5/t
+*Dtfile.0.FileMgr.helpVol:	Filemgr
+*Dtfile.0.FileMgr.selection_list:	
+*Dtfile.0.FileMgr.show_iconic_path:	True
+*Dtfile.0.FileMgr.show_current_directory:	True
+*Dtfile.0.FileMgr.show_status_line:	True
+*Dtfile.0.FileMgr.fast_cd_enabled:	False
+*Dtfile.0.FileMgr.toolbox:	False
+*Dtfile.0.FileMgr.show_hid_enabled:	False
+*Dtfile.0.FileMgr.secondaryHelpDialogCount:	0
+*Dtfile.0.FileMgr.attr_dialog_count:	0
+*Dtfile.0.FileMgr.num_positions:   0
+#
+*Dtfile.0.ChangeDirectory.visibleCount:	8
+*Dtfile.0.ChangeDirectory.listCount:	0
+*Dtfile.0.Preferences.showType:	single_directory
+*Dtfile.0.Preferences.treeFiles:	never
+*Dtfile.0.Preferences.view_single:	by_name_and_icon
+*Dtfile.0.Preferences.view_tree:	by_name_and_small_icon
+*Dtfile.0.Preferences.order:	order_by_alphabetical
+*Dtfile.0.Preferences.direction:	direction_ascending
+*Dtfile.0.Preferences.positionEnabled:	random_off
+*Dtfile.0.filter_edit.FileFilter.matchFilter:	True
+*Dtfile.0.filter_edit.FileFilter.name:	.*
+*Dtfile.0.filter_edit.FileFilter.showHidden:	False
+*Dtfile.0.filter_edit.FileFilter.filetypesFilteredCount:	3
+*Dtfile.0.filter_edit.FileFilter.filetypesFiltered:	DOT_FILE,DOT_FOLDER,CURRENT_FOLDER
+*Dtfile.0.filter_active.FileFilter.matchFilter:	True
+*Dtfile.0.filter_active.FileFilter.name:	.*
+*Dtfile.0.filter_active.FileFilter.showHidden:	False
+*Dtfile.0.filter_active.FileFilter.filetypesFilteredCount:	3
+*Dtfile.0.filter_active.FileFilter.filetypesFiltered:	DOT_FILE,DOT_FOLDER,CURRENT_FOLDER
+*Dtfile.0.FindFile.folders:	/Net/hydra/home5/t
+*Dtfile.0.FindFile.name:	.forward
+*Dtfile.0.FindFile.selectedItem:	0
+*Dtfile.0.FindFile.matchData:	/Net/hydra/home5/t/tbp/.forward
+#
+*Dtfile.1.iconify:   True
+*Dtfile.1.workspace: ws0
+*Dtfile.1.FileMgr.displayed:	True
+*Dtfile.1.FileMgr.x:	81
+*Dtfile.1.FileMgr.y:	58
+*Dtfile.1.FileMgr.width:	555
+*Dtfile.1.FileMgr.height:	400
+*Dtfile.1.FileMgr.show_type:	single_directory
+*Dtfile.1.FileMgr.tree_files:	never
+*Dtfile.1.FileMgr.view_single:	by_name_and_icon
+*Dtfile.1.FileMgr.view_tree:	by_name_and_small_icon
+*Dtfile.1.FileMgr.order:	order_by_alphabetical
+*Dtfile.1.FileMgr.direction:	direction_ascending
+*Dtfile.1.FileMgr.positionEnabled:	random_off
+*Dtfile.1.FileMgr.host:	ladybug
+*Dtfile.1.FileMgr.current_directory:	/Net/hydra/home5/t/tbp
+*Dtfile.1.FileMgr.branch_list:	4:/Net/hydra/home5/t/tbp
+*Dtfile.1.FileMgr.helpVol:	Filemgr
+*Dtfile.1.FileMgr.selection_list:	
+*Dtfile.1.FileMgr.show_iconic_path:	True
+*Dtfile.1.FileMgr.show_current_directory:	True
+*Dtfile.1.FileMgr.show_status_line:	True
+*Dtfile.1.FileMgr.fast_cd_enabled:	False
+*Dtfile.1.FileMgr.toolbox:	False
+*Dtfile.1.FileMgr.show_hid_enabled:	False
+*Dtfile.1.FileMgr.secondaryHelpDialogCount:	0
+*Dtfile.1.FileMgr.attr_dialog_count:	0
+*Dtfile.1.FileMgr.num_positions:   0
+#
+*Dtfile.1.ChangeDirectory.visibleCount:	8
+*Dtfile.1.ChangeDirectory.listCount:	0
+*Dtfile.1.Preferences.showType:	single_directory
+*Dtfile.1.Preferences.treeFiles:	never
+*Dtfile.1.Preferences.view_single:	by_name_and_icon
+*Dtfile.1.Preferences.view_tree:	by_name_and_small_icon
+*Dtfile.1.Preferences.order:	order_by_alphabetical
+*Dtfile.1.Preferences.direction:	direction_ascending
+*Dtfile.1.Preferences.positionEnabled:	random_off
+*Dtfile.1.filter_edit.FileFilter.matchFilter:	True
+*Dtfile.1.filter_edit.FileFilter.name:	.*
+*Dtfile.1.filter_edit.FileFilter.showHidden:	False
+*Dtfile.1.filter_edit.FileFilter.filetypesFilteredCount:	3
+*Dtfile.1.filter_edit.FileFilter.filetypesFiltered:	DOT_FILE,DOT_FOLDER,CURRENT_FOLDER
+*Dtfile.1.filter_active.FileFilter.matchFilter:	True
+*Dtfile.1.filter_active.FileFilter.name:	.*
+*Dtfile.1.filter_active.FileFilter.showHidden:	False
+*Dtfile.1.filter_active.FileFilter.filetypesFilteredCount:	3
+*Dtfile.1.filter_active.FileFilter.filetypesFiltered:	DOT_FILE,DOT_FOLDER,CURRENT_FOLDER
+*Dtfile.1.FindFile.folders:	/Net/hydra/home5/t/tbp
+*Dtfile.1.FindFile.selectedItem:	-1
+#
+*Dtfile.2.iconify:   True
+*Dtfile.2.workspace: ws0
+*Dtfile.2.FileMgr.displayed:	True
+*Dtfile.2.FileMgr.x:	110
+*Dtfile.2.FileMgr.y:	87
+*Dtfile.2.FileMgr.width:	555
+*Dtfile.2.FileMgr.height:	400
+*Dtfile.2.FileMgr.show_type:	single_directory
+*Dtfile.2.FileMgr.tree_files:	never
+*Dtfile.2.FileMgr.view_single:	by_name_and_icon
+*Dtfile.2.FileMgr.view_tree:	by_name_and_small_icon
+*Dtfile.2.FileMgr.order:	order_by_alphabetical
+*Dtfile.2.FileMgr.direction:	direction_ascending
+*Dtfile.2.FileMgr.positionEnabled:	random_off
+*Dtfile.2.FileMgr.host:	ladybug
+*Dtfile.2.FileMgr.current_directory:	/Net/hydra/home5/t/tbp
+*Dtfile.2.FileMgr.branch_list:	4:/Net/hydra/home5/t/tbp
+*Dtfile.2.FileMgr.helpVol:	Filemgr
+*Dtfile.2.FileMgr.selection_list:	
+*Dtfile.2.FileMgr.show_iconic_path:	True
+*Dtfile.2.FileMgr.show_current_directory:	True
+*Dtfile.2.FileMgr.show_status_line:	True
+*Dtfile.2.FileMgr.fast_cd_enabled:	False
+*Dtfile.2.FileMgr.toolbox:	False
+*Dtfile.2.FileMgr.show_hid_enabled:	True
+*Dtfile.2.FileMgr.secondaryHelpDialogCount:	0
+*Dtfile.2.FileMgr.attr_dialog_count:	0
+*Dtfile.2.FileMgr.num_positions:   0
+#
+*Dtfile.2.ChangeDirectory.visibleCount:	8
+*Dtfile.2.ChangeDirectory.listCount:	0
+*Dtfile.2.Preferences.showType:	single_directory
+*Dtfile.2.Preferences.treeFiles:	never
+*Dtfile.2.Preferences.view_single:	by_name_and_icon
+*Dtfile.2.Preferences.view_tree:	by_name_and_small_icon
+*Dtfile.2.Preferences.order:	order_by_alphabetical
+*Dtfile.2.Preferences.direction:	direction_ascending
+*Dtfile.2.Preferences.positionEnabled:	random_off
+*Dtfile.2.filter_edit.FileFilter.matchFilter:	True
+*Dtfile.2.filter_edit.FileFilter.name:	.*
+*Dtfile.2.filter_edit.FileFilter.showHidden:	False
+*Dtfile.2.filter_edit.FileFilter.filetypesFilteredCount:	3
+*Dtfile.2.filter_edit.FileFilter.filetypesFiltered:	DOT_FILE,DOT_FOLDER,CURRENT_FOLDER
+*Dtfile.2.filter_active.FileFilter.matchFilter:	True
+*Dtfile.2.filter_active.FileFilter.name:	.*
+*Dtfile.2.filter_active.FileFilter.showHidden:	True
+*Dtfile.2.filter_active.FileFilter.filetypesFilteredCount:	3
+*Dtfile.2.filter_active.FileFilter.filetypesFiltered:	DOT_FILE,DOT_FOLDER,CURRENT_FOLDER
+*Dtfile.2.FindFile.folders:	/Net/hydra/home5/t/tbp
+*Dtfile.2.FindFile.selectedItem:	-1
+#
+*Dtfile.3.iconify:   True
+*Dtfile.3.workspace: ws0
+*Dtfile.3.FileMgr.displayed:	True
+*Dtfile.3.FileMgr.x:	168
+*Dtfile.3.FileMgr.y:	145
+*Dtfile.3.FileMgr.width:	555
+*Dtfile.3.FileMgr.height:	400
+*Dtfile.3.FileMgr.show_type:	single_directory
+*Dtfile.3.FileMgr.tree_files:	never
+*Dtfile.3.FileMgr.view_single:	by_name_and_icon
+*Dtfile.3.FileMgr.view_tree:	by_name_and_small_icon
+*Dtfile.3.FileMgr.order:	order_by_alphabetical
+*Dtfile.3.FileMgr.direction:	direction_ascending
+*Dtfile.3.FileMgr.positionEnabled:	random_off
+*Dtfile.3.FileMgr.host:	ladybug
+*Dtfile.3.FileMgr.current_directory:	/Net/hydra/home5/t/tbp
+*Dtfile.3.FileMgr.branch_list:	4:/Net/hydra/home5/t/tbp
+*Dtfile.3.FileMgr.helpVol:	Filemgr
+*Dtfile.3.FileMgr.selection_list:	
+*Dtfile.3.FileMgr.show_iconic_path:	True
+*Dtfile.3.FileMgr.show_current_directory:	True
+*Dtfile.3.FileMgr.show_status_line:	True
+*Dtfile.3.FileMgr.fast_cd_enabled:	False
+*Dtfile.3.FileMgr.toolbox:	False
+*Dtfile.3.FileMgr.show_hid_enabled:	True
+*Dtfile.3.FileMgr.secondaryHelpDialogCount:	0
+*Dtfile.3.FileMgr.attr_dialog_count:	0
+*Dtfile.3.FileMgr.num_positions:   0
+#
+*Dtfile.3.ChangeDirectory.visibleCount:	8
+*Dtfile.3.ChangeDirectory.listCount:	0
+*Dtfile.3.Preferences.showType:	single_directory
+*Dtfile.3.Preferences.treeFiles:	never
+*Dtfile.3.Preferences.view_single:	by_name_and_icon
+*Dtfile.3.Preferences.view_tree:	by_name_and_small_icon
+*Dtfile.3.Preferences.order:	order_by_alphabetical
+*Dtfile.3.Preferences.direction:	direction_ascending
+*Dtfile.3.Preferences.positionEnabled:	random_off
+*Dtfile.3.filter_edit.FileFilter.matchFilter:	True
+*Dtfile.3.filter_edit.FileFilter.name:	.*
+*Dtfile.3.filter_edit.FileFilter.showHidden:	False
+*Dtfile.3.filter_edit.FileFilter.filetypesFilteredCount:	3
+*Dtfile.3.filter_edit.FileFilter.filetypesFiltered:	DOT_FILE,DOT_FOLDER,CURRENT_FOLDER
+*Dtfile.3.filter_active.FileFilter.matchFilter:	True
+*Dtfile.3.filter_active.FileFilter.name:	.*
+*Dtfile.3.filter_active.FileFilter.showHidden:	True
+*Dtfile.3.filter_active.FileFilter.filetypesFilteredCount:	3
+*Dtfile.3.filter_active.FileFilter.filetypesFiltered:	DOT_FILE,DOT_FOLDER,CURRENT_FOLDER
+*Dtfile.3.FindFile.folders:	/Net/hydra/home5/t/tbp
+*Dtfile.3.FindFile.selectedItem:	-1
+#
+*Dtfile.4.iconify:   False
+*Dtfile.4.workspace: ws0
+*Dtfile.4.FileMgr.displayed:	True
+*Dtfile.4.FileMgr.x:	20
+*Dtfile.4.FileMgr.y:	0
+*Dtfile.4.FileMgr.width:	700
+*Dtfile.4.FileMgr.height:	251
+*Dtfile.4.FileMgr.show_type:	single_directory
+*Dtfile.4.FileMgr.tree_files:	never
+*Dtfile.4.FileMgr.view_single:	by_name_and_icon
+*Dtfile.4.FileMgr.view_tree:	by_name_and_small_icon
+*Dtfile.4.FileMgr.order:	order_by_alphabetical
+*Dtfile.4.FileMgr.direction:	direction_ascending
+*Dtfile.4.FileMgr.positionEnabled:	random_off
+*Dtfile.4.FileMgr.host:	/usr/var/dt/appconfig/appmanager/
+*Dtfile.4.FileMgr.current_directory:	/usr/var/dt/appconfig/appmanager/tbp-ladybug.egr.uh.edu-0/Desktop_Apps
+*Dtfile.4.FileMgr.branch_list:	4:/usr/var/dt/appconfig/appmanager/tbp-ladybug.egr.uh.edu-0/Desktop_Apps
+*Dtfile.4.FileMgr.restricted_directory:	/usr/var/dt/appconfig/appmanager/tbp-ladybug.egr.uh.edu-0
+*Dtfile.4.FileMgr.title:	Application Manager
+*Dtfile.4.FileMgr.helpVol:	Appmanager
+*Dtfile.4.FileMgr.selection_list:	/usr/var/dt/appconfig/appmanager/tbp-ladybug.egr.uh.edu-0/Desktop_Apps/Dtterm
+*Dtfile.4.FileMgr.show_iconic_path:	False
+*Dtfile.4.FileMgr.show_current_directory:	False
+*Dtfile.4.FileMgr.show_status_line:	True
+*Dtfile.4.FileMgr.fast_cd_enabled:	False
+*Dtfile.4.FileMgr.toolbox:	True
+*Dtfile.4.FileMgr.show_hid_enabled:	False
+*Dtfile.4.FileMgr.secondaryHelpDialogCount:	0
+*Dtfile.4.FileMgr.attr_dialog_count:	0
+*Dtfile.4.FileMgr.num_positions:   0
+#
+*Dtfile.4.ChangeDirectory.visibleCount:	8
+*Dtfile.4.ChangeDirectory.listCount:	0
+*Dtfile.4.Preferences.showType:	single_directory
+*Dtfile.4.Preferences.treeFiles:	never
+*Dtfile.4.Preferences.view_single:	by_name_and_icon
+*Dtfile.4.Preferences.view_tree:	by_name_and_small_icon
+*Dtfile.4.Preferences.order:	order_by_alphabetical
+*Dtfile.4.Preferences.direction:	direction_ascending
+*Dtfile.4.Preferences.positionEnabled:	random_off
+*Dtfile.4.filter_edit.FileFilter.matchFilter:	True
+*Dtfile.4.filter_edit.FileFilter.name:	.*
+*Dtfile.4.filter_edit.FileFilter.showHidden:	False
+*Dtfile.4.filter_edit.FileFilter.filetypesFilteredCount:	3
+*Dtfile.4.filter_edit.FileFilter.filetypesFiltered:	DOT_FILE,DOT_FOLDER,CURRENT_FOLDER
+*Dtfile.4.filter_active.FileFilter.matchFilter:	True
+*Dtfile.4.filter_active.FileFilter.name:	.*
+*Dtfile.4.filter_active.FileFilter.showHidden:	False
+*Dtfile.4.filter_active.FileFilter.filetypesFilteredCount:	3
+*Dtfile.4.filter_active.FileFilter.filetypesFiltered:	DOT_FILE,DOT_FOLDER,CURRENT_FOLDER
+*Dtfile.4.FindFile.folders:	/
+*Dtfile.4.FindFile.selectedItem:	-1
+#
+*Dtfile.Workspace.0.secondaryHelpDialogCount: 0
+#
+#
+*Dtfile.Workspace.1.secondaryHelpDialogCount: 0
+#
+#
+*Dtfile.Workspace.2.secondaryHelpDialogCount: 0
+#
+#
+*Dtfile.Workspace.3.secondaryHelpDialogCount: 0
+#
+#

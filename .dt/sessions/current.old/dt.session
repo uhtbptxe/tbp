@@ -1,0 +1,6 @@
+dtsmcmd -hints "-geometry 1x1+0+0 -state NormalState -cmd \"dtfile -session dtaaxzxa \"" -screen 0 -cmd "dtfile -session dtaaxzxa"
+
+dtsmcmd -hints "-geometry 1268x989+6+29 -state IconicState -workspaces \"ws0 \" -cmd \"/usr/dt/bin/dthelpview -helpVolume Intromgr \"" -screen 0 -cmd "/usr/dt/bin/dthelpview -helpVolume Intromgr"
+
+dtsmcmd -hints "-geometry 751x248+325+175 -state NormalState -workspaces \"ws0 \" -cmd \"/usr/bin/X11/dxconsole \"" -screen 0 -cmd "/usr/bin/X11/dxconsole"
+

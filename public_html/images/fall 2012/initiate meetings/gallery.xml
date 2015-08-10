@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Fall 2012 Initiates Meeting" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>1im (1).jpg</filename><caption> </caption></image>
+<image><filename>1im (2).jpg</filename><caption> </caption></image>
+<image><filename>1im (3).jpg</filename><caption> </caption></image>
+<image><filename>1im (4).jpg</filename><caption> </caption></image>
+<image><filename>1im (5).jpg</filename><caption> </caption></image>
+<image><filename>1im (6).jpg</filename><caption> </caption></image>
+<image><filename>1im (7).jpg</filename><caption> </caption></image>
+<image><filename>1im (8).jpg</filename><caption> </caption></image>
+<image><filename>2im (1).jpg</filename><caption> </caption></image>
+<image><filename>2im (2).jpg</filename><caption> </caption></image>
+<image><filename>2im (3).jpg</filename><caption> </caption></image>
+<image><filename>2im (4).jpg</filename><caption> </caption></image>
+<image><filename>2im (5).jpg</filename><caption> </caption></image>
+<image><filename>2im (6).jpg</filename><caption> </caption></image>
+<image><filename>2im (7).jpg</filename><caption> </caption></image>
+<image><filename>2im (8).jpg</filename><caption> </caption></image>
+<image><filename>2im (9).jpg</filename><caption> </caption></image>
+<image><filename>2im (10).jpg</filename><caption> </caption></image>
+<image><filename>2im (11).jpg</filename><caption> </caption></image>
+<image><filename>2im (12).jpg</filename><caption> </caption></image>
+<image><filename>2im (13).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

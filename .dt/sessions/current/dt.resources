@@ -1,0 +1,18 @@
+Dtwm*0*FrontPanel*geometry:	+0-0
+Dtwm*0*helpResources:	\n\
+  
+Dtwm*0*initialWorkspace:	ws0
+Dtwm*0*workspaceCount:	4
+*XmText*FontList:	-dt-interface user-medium-r-normal-s*-*-*-*-*-*-*-*-*:
+*DtEditor*textFontList:	-dt-interface user-medium-r-normal-s*-*-*-*-*-*-*-*-*:
+*0*ColorPalette:	Default.dp
+dtsession*displayResolution:	3268
+dtsession*sessionLanguage:	C
+*XmTextField*FontList:	-dt-interface user-medium-r-normal-s*-*-*-*-*-*-*-*-*:
+*background:	#9900991B99FE
+*FontSet:	-dt-interface user-medium-r-normal-s*-*-*-*-*-*-*-*-*
+*systemFont:	-dt-interface system-medium-r-normal-s*-*-*-*-*-*-*-*-*:
+*foreground:	#FFFFFFFFFFFF
+*FontList:	-dt-interface system-medium-r-normal-s*-*-*-*-*-*-*-*-*:
+*Font:	-dt-interface user-medium-r-normal-s*-*-*-*-*-*-*-*-*
+*userFont:	-dt-interface user-medium-r-normal-s*-*-*-*-*-*-*-*-*:

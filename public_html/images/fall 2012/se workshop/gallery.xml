@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Fall 2012 SE Workshop" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>se (1).jpg</filename><caption> </caption></image>
+<image><filename>se (2).jpg</filename><caption> </caption></image>
+<image><filename>se (3).jpg</filename><caption> </caption></image>
+<image><filename>se (4).jpg</filename><caption> </caption></image>
+<image><filename>se (5).jpg</filename><caption> </caption></image>
+<image><filename>se (6).jpg</filename><caption> </caption></image>
+<image><filename>se (7).jpg</filename><caption> </caption></image>
+<image><filename>se (8).jpg</filename><caption> </caption></image>
+<image><filename>se (9).jpg</filename><caption> </caption></image>
+<image><filename>se (10).jpg</filename><caption> </caption></image>
+<image><filename>se (11).jpg</filename><caption> </caption></image>
+<image><filename>se (12).jpg</filename><caption> </caption></image>
+<image><filename>se (13).jpg</filename><caption> </caption></image>
+<image><filename>se (14).jpg</filename><caption> </caption></image>
+<image><filename>se (15).jpg</filename><caption> </caption></image>
+<image><filename>se (16).jpg</filename><caption> </caption></image>
+<image><filename>se (17).jpg</filename><caption> </caption></image>
+<image><filename>se (18).jpg</filename><caption> </caption></image>
+<image><filename>se (19).jpg</filename><caption> </caption></image>
+<image><filename>se (20).jpg</filename><caption> </caption></image>
+<image><filename>se (21).jpg</filename><caption> </caption></image>
+<image><filename>se (22).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

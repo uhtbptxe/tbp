@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Fall 2010 Social" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>f10s (1).jpg</filename><caption> </caption></image>
+<image><filename>f10s (2).jpg</filename><caption> </caption></image>
+<image><filename>f10s (3).jpg</filename><caption> </caption></image>
+<image><filename>f10s (4).jpg</filename><caption> </caption></image>
+<image><filename>f10s (5).jpg</filename><caption> </caption></image>
+<image><filename>f10s (6).jpg</filename><caption> </caption></image>
+<image><filename>f10s (7).jpg</filename><caption> </caption></image>
+<image><filename>f10s (8).jpg</filename><caption> </caption></image>
+<image><filename>f10s (9).jpg</filename><caption> </caption></image>
+<image><filename>f10s (10).jpg</filename><caption> </caption></image>
+<image><filename>f10s (11).jpg</filename><caption> </caption></image>
+<image><filename>f10s (12).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

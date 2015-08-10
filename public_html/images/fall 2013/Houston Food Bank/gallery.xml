@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Fall 2013 Houston Food Bank Volunteering" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>hfb (1).jpg</filename><caption> </caption></image>
+<image><filename>hfb (2).jpg</filename><caption> </caption></image>
+<image><filename>hfb (3).jpg</filename><caption> </caption></image>
+<image><filename>hfb (4).jpg</filename><caption> </caption></image>
+<image><filename>hfb (5).jpg</filename><caption> </caption></image>
+<image><filename>hfb (6).jpg</filename><caption> </caption></image>
+<image><filename>hfb (7).jpg</filename><caption> </caption></image>
+<image><filename>hfb (8).jpg</filename><caption> </caption></image>
+<image><filename>hfb (9).jpg</filename><caption> </caption></image>
+<image><filename>hfb (10).jpg</filename><caption> </caption></image>
+<image><filename>hfb (11).jpg</filename><caption> </caption></image>
+<image><filename>hfb (12).jpg</filename><caption> </caption></image>
+<image><filename>hfb (13).jpg</filename><caption> </caption></image>
+<image><filename>hfb (14).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

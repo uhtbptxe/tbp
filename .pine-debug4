@@ -1,0 +1,575 @@
+Debug output of the Alpine program (debug=2 debug_imap=0). Version 1.00 (LRH 882 2007-12-20)
+Wed Feb  6 19:24:13 2008
+
+Starting after the reading_pinerc calls, the data in this file should
+be encoded as UTF-8. Before that it will be in the user's native charset.
+ 
+"pine" <no args> (PID=15382)
+
+Setting home dir from $HOME: "/Net/hydra/home5/t/tbp"
+
+ -- init_pinerc --
+
+Global config "/usr/local/lib/pine.conf" is default
+Personal config "/Net/hydra/home5/t/tbp/.pinerc" is default
+Exceptions config not set on cmdline
+  checking for default "/Net/hydra/home5/t/tbp/.pinercex" in pinerc dir
+  no, there is no exceptions config
+
+  Global config:     /usr/local/lib/pine.conf
+  Personal config:   /Net/hydra/home5/t/tbp/.pinerc
+  Exceptions config: <none>
+  Fixed config:      /usr/local/lib/pine.conf.fixed
+
+reading_pinerc "/usr/local/lib/pine.conf"
+Read 20852 characters:
+reading_pinerc "/Net/hydra/home5/t/tbp/.pinerc"
+Read 20121 characters:
+reading_pinerc "/usr/local/lib/pine.conf.fixed"
+so_get error: /usr/local/lib/pine.conf.fixed : No such file or directory
+Open failed: No such file or directory
+======= Current_val options set =======
+          user-domain : EGR.UH.EDU
+           inbox-path : inbox
+          default-fcc : sent-mail
+ default-saved-msg-fo : saved-messages
+     postponed-folder : postponed-msgs
+       signature-file : .signature
+         feature-list : enable-full-header-cmd
+   viewer-margin-left : 0
+  viewer-margin-right : 4
+ quote-suppression-th : 0
+  saved-msg-name-rule : default-folder
+        fcc-name-rule : default-fcc
+             sort-key : arrival
+   addrbook-sort-rule : fullname-with-lists-last
+     folder-sort-rule : alphabetical
+    goto-default-rule : inbox-or-folder-in-recent-collection
+ incoming-startup-rul : first-unseen
+         pruning-rule : ask-ask
+   folder-reopen-rule : ask-no-n
+ threading-display-st : struct
+ threading-index-styl : exp
+ threading-indicator- : >
+ threading-expanded-c : .
+ threading-lastreply- : \
+ display-character-se : UTF-8
+ posting-character-se : UTF-8
+              speller : /usr/bin/aspell --dont-backup --mode=email check
+ composer-wrap-column : 74
+  reply-indent-string : > 
+         reply-leadin : default
+ empty-header-message : undisclosed-recipients
+ use-only-domain-name : no
+        bugs-fullname : Sorry No Address
+         bugs-address : nobody
+     suggest-fullname : Sorry No Address
+      suggest-address : nobody
+       local-fullname : Local Support
+        local-address : postmaster
+  kblock-passwd-count : 1
+ keyword-surrounding- : "{" "} "
+ opening-text-separat :  - 
+       viewer-overlap : 2
+        scroll-margin : 0
+ status-message-delay : 0
+        busy-cue-rate : 12
+  mail-check-interval : 150
+ mail-check-interval- : 0
+ maildrop-check-minim : 60
+           nntp-range : 0
+ max-remote-connectio : 3
+ incoming-check-timeo : 5
+ incoming-check-inter : 180
+ incoming-check-inter : 180
+    dead-letter-files : 1
+ newmail-window-width : 80
+       mail-directory : mail
+   folder-collections : mail/[]
+         address-book : .addressbook
+     standard-printer : lpr
+ last-time-prune-ques : 108.1
+    last-version-used : 5.00
+   user-input-timeout : 0
+ remote-abook-history : 3
+ remote-abook-validit : 5
+              printer : attached-to-ansi
+       elm-style-save : no
+      header-in-reply : no
+        feature-level : sappling
+      old-style-reply : no
+       save-by-sender : no
+          color-style : no-color
+ current-indexline-st : flip-colors
+ titlebar-color-style : default
+ normal-foreground-co : 000,000,000
+ normal-background-co : 255,255,255
+ title-foreground-col : 000,000,000
+ title-background-col : 255,255,000
+ title-closed-foregro : 255,255,255
+ title-closed-backgro : 255,000,000
+ keylabel-foreground- : 000,000,000
+ keylabel-background- : 255,255,255
+ selectable-item-fore : 000,000,000
+ selectable-item-back : 255,255,255
+ meta-message-foregro : 000,000,000
+ meta-message-backgro : 255,255,000
+ quote1-foreground-co : 000,000,000
+ quote1-background-co : 000,217,217
+ quote2-foreground-co : 000,000,000
+ quote2-background-co : 204,214,000
+ quote3-foreground-co : 000,000,000
+ quote3-background-co : 000,214,000
+ signature-foreground : 000,000,255
+ signature-background : 255,255,255
+ header-general-foreg : 000,000,000
+ header-general-backg : 255,255,255
+ index-to-me-foregrou : 000,000,000
+ index-to-me-backgrou : 000,174,174
+ index-important-fore : 240,240,240
+ index-important-back : 174,000,000
+ index-answered-foreg : 255,000,000
+ index-answered-backg : 174,174,000
+ index-new-foreground : 240,240,240
+ index-new-background : 174,000,174
+ index-opening-foregr : 192,192,192
+ index-opening-backgr : 255,255,255
+       wp-indexheight : 24
+          wp-aggstate : 1
+             wp-state : ""
+======= Command_line_val options set =======
+======= User_val options set (/Net/hydra/home5/t/tbp/.pinerc) =======
+         feature-list : enable-full-header-cmd
+ last-time-prune-ques : 108.1
+    last-version-used : 5.00
+======= PostloadUser_val options set (postload) =======
+======= Global_val options set (/usr/local/lib/pine.conf) =======
+          user-domain : EGR.UH.EDU
+           inbox-path : inbox
+          default-fcc : sent-mail
+ default-saved-msg-fo : saved-messages
+     postponed-folder : postponed-msgs
+       signature-file : .signature
+   viewer-margin-left : 0
+  viewer-margin-right : 4
+ quote-suppression-th : 0
+  saved-msg-name-rule : default-folder
+        fcc-name-rule : default-fcc
+             sort-key : arrival
+   addrbook-sort-rule : fullname-with-lists-last
+     folder-sort-rule : alphabetical
+    goto-default-rule : inbox-or-folder-in-recent-collection
+ incoming-startup-rul : first-unseen
+         pruning-rule : ask-ask
+   folder-reopen-rule : ask-no-n
+ threading-display-st : struct
+ threading-index-styl : exp
+ threading-indicator- : >
+ threading-expanded-c : .
+ threading-lastreply- : \
+ display-character-se : UTF-8
+ posting-character-se : UTF-8
+              speller : /usr/bin/aspell --dont-backup --mode=email check
+ composer-wrap-column : 74
+  reply-indent-string : > 
+         reply-leadin : default
+ empty-header-message : undisclosed-recipients
+ use-only-domain-name : no
+        bugs-fullname : Sorry No Address
+         bugs-address : nobody
+     suggest-fullname : Sorry No Address
+      suggest-address : nobody
+       local-fullname : Local Support
+        local-address : postmaster
+  kblock-passwd-count : 1
+ keyword-surrounding- : "{" "} "
+ opening-text-separat :  - 
+       viewer-overlap : 2
+        scroll-margin : 0
+ status-message-delay : 0
+        busy-cue-rate : 12
+  mail-check-interval : 150
+ mail-check-interval- : 0
+ maildrop-check-minim : 60
+           nntp-range : 0
+ max-remote-connectio : 3
+ incoming-check-timeo : 5
+ incoming-check-inter : 180
+ incoming-check-inter : 180
+    dead-letter-files : 1
+ newmail-window-width : 80
+       mail-directory : mail
+   folder-collections : mail/[]
+         address-book : .addressbook
+     standard-printer : lpr
+   user-input-timeout : 0
+ remote-abook-history : 3
+ remote-abook-validit : 5
+              printer : attached-to-ansi
+       elm-style-save : no
+      header-in-reply : no
+        feature-level : sappling
+      old-style-reply : no
+       save-by-sender : no
+          color-style : no-color
+ current-indexline-st : flip-colors
+ titlebar-color-style : default
+ normal-foreground-co : 000,000,000
+ normal-background-co : 255,255,255
+ title-foreground-col : 000,000,000
+ title-background-col : 255,255,000
+ title-closed-foregro : 255,255,255
+ title-closed-backgro : 255,000,000
+ meta-message-foregro : 000,000,000
+ meta-message-backgro : 255,255,000
+ quote1-foreground-co : 000,000,000
+ quote1-background-co : 000,217,217
+ quote2-foreground-co : 000,000,000
+ quote2-background-co : 204,214,000
+ quote3-foreground-co : 000,000,000
+ quote3-background-co : 000,214,000
+ signature-foreground : 000,000,255
+ signature-background : 255,255,255
+ index-to-me-foregrou : 000,000,000
+ index-to-me-backgrou : 000,174,174
+ index-important-fore : 240,240,240
+ index-important-back : 174,000,000
+ index-answered-foreg : 255,000,000
+ index-answered-backg : 174,174,000
+ index-new-foreground : 240,240,240
+ index-new-background : 174,000,174
+ index-opening-foregr : 192,192,192
+ index-opening-backgr : 255,255,255
+       wp-indexheight : 24
+          wp-aggstate : 1
+             wp-state : ""
+======= Fixed_val options set (NO pine.conf.fixed) =======
+========== Feature settings ==========
+     allow-changing-from
+  no-alternate-compose-menu
+  no-alternate-role-menu
+  no-compose-cancel-confirm-uses-yes
+  no-compose-rejects-unqualified-addrs
+  no-compose-send-offers-first-filter
+  no-compose-cut-from-cursor
+  no-compose-maps-delete-key-to-ctrl-d
+  no-quell-dead-letter-on-cancel
+     enable-alternate-editor-cmd
+  no-enable-alternate-editor-implicitly
+     enable-search-and-replace
+  no-enable-sigdashes
+  no-quell-mailchecks-composing-except-inbox
+  no-quell-mailchecks-composing-inbox
+  no-quell-user-lookup-in-passwd-file
+  no-spell-check-before-sending
+  no-copy-to-address-to-from-if-it-is-us
+  no-enable-reply-indent-string-editing
+  no-include-attachments-in-reply
+  no-include-header-in-reply
+  no-include-text-in-reply
+  no-reply-always-uses-reply-to
+  no-signature-at-bottom
+  no-strip-from-sigdashes-on-reply
+  no-forward-as-attachment
+  no-disable-sender
+  no-use-sender-not-x-sender
+  no-quell-flowed-text
+  no-downgrade-multipart-to-text
+     enable-8bit-esmtp-negotiation
+  no-enable-background-sending
+  no-enable-delivery-status-notification
+  no-enable-verbose-smtp-posting
+  no-fcc-without-attachments
+  no-fcc-on-bounce
+  no-mark-fcc-seen
+  no-fcc-only-without-confirm
+  no-send-without-confirm
+  no-strip-whitespace-before-send
+  no-warn-if-blank-subject
+  no-warn-if-blank-to-and-cc-and-newsgroups
+  no-combined-folder-display
+  no-combined-subdirectory-display
+  no-enable-lame-list-mode
+  no-enable-dot-folders
+  no-enable-incoming-folders
+  no-enable-incoming-folders-checking
+  no-incoming-checking-includes-total
+  no-incoming-checking-uses-recent
+  no-expanded-view-of-folders
+  no-quell-empty-directories
+  no-separate-folder-and-directory-entries
+  no-single-column-folder-list
+  no-sort-default-fcc-alpha
+  no-sort-default-save-alpha
+  no-vertical-folder-list
+  no-combined-addrbook-display
+  no-expanded-view-of-addressbooks
+  no-expanded-view-of-distribution-lists
+  no-ldap-result-to-addrbook-add
+  no-auto-open-next-unread
+  no-continue-tab-without-confirm
+  no-convert-dates-to-localtime
+     delete-skips-deleted
+  no-disable-index-locale-dates
+  no-enable-cruise-mode
+  no-enable-cruise-mode-delete
+     mark-for-cc
+  no-next-thread-without-confirm
+  no-return-to-inbox-without-confirm
+  no-show-sort
+  no-tab-uses-unseen-for-next-folder
+  no-tab-visits-next-new-message-only
+  no-thread-index-shows-important-color
+  no-thread-sorts-by-arrival
+  no-enable-msg-view-addresses
+  no-enable-msg-view-attachments
+     enable-msg-view-urls
+     enable-msg-view-web-hostnames
+  no-enable-msg-view-forced-arrows
+  no-pass-c1-control-characters-as-is
+  no-pass-control-characters-as-is
+  no-prefer-plain-text
+  no-quell-charset-warning
+  no-quell-server-after-link-in-html
+  no-compose-sets-newsgroup-without-confirm
+  no-enable-8bit-nntp-posting
+  no-enable-multiple-newsrcs
+  no-mult-newsrc-hostnames-as-typed
+  no-hide-nntp-path
+     news-approximates-new-status
+  no-news-deletes-across-groups
+  no-news-offers-catchup-on-close
+  no-news-post-without-validation
+  no-news-read-in-newsrc-order
+     nntp-search-uses-overview
+  no-predict-nntp-server
+  no-quell-extra-post-prompt
+  no-enable-print-via-y-command
+  no-print-formfeed-between-messages
+  no-print-includes-from-line
+  no-print-index-enabled
+  no-print-offers-custom-cmd-prompt
+     enable-aggregate-command-set
+     enable-arrow-navigation
+     enable-arrow-navigation-relaxed
+     enable-bounce-cmd
+     enable-exit-via-lessthan-command
+     enable-flag-cmd
+  no-enable-flag-screen-implicitly
+     enable-flag-screen-keyword-shortcut
+  no-enable-full-header-and-text
+     enable-full-header-cmd
+     enable-goto-in-file-browser
+     enable-jump-shortcut
+     enable-partial-match-lists
+     enable-tab-completion
+     enable-unix-pipe-cmd
+  no-quell-full-header-auto-reset
+  no-allow-talk
+  no-assume-slow-link
+  no-auto-move-read-msgs
+  no-auto-unselect-after-apply
+     auto-unzoom-after-apply
+     auto-zoom-after-select
+  no-busy-cue-spinner-only
+  no-check-newmail-when-quitting
+  no-confirm-role-even-for-default
+  no-disable-keymenu
+  no-disable-password-caching
+  no-disable-regular-expression-matching-for-alternate-addresses
+  no-disable-save-input-history
+  no-disable-take-fullname-in-addresses
+  no-disable-take-last-comma-first
+  no-disable-terminal-reset-for-display-filters
+  no-enable-dot-files
+  no-enable-fast-recent-test
+  no-enable-mail-check-cue
+  no-enable-mailcap-param-substitution
+  no-enable-mouse-in-xterm
+  no-enable-newmail-in-xterm-icon
+  no-enable-newmail-short-text-in-icon
+  no-enable-suspend
+  no-enable-take-export
+  no-enable-rules-under-take
+  no-expose-hidden-config
+  no-expunge-only-manually
+  no-expunge-without-confirm
+  no-expunge-without-confirm-everywhere
+  no-force-arrow-cursor
+  no-maildrops-preserve-state
+  no-offer-expunge-of-inbox
+  no-offer-expunge-of-stayopen-folders
+  no-preopen-stayopen-folders
+  no-preserve-start-stop-characters
+  no-quell-folder-internal-msg
+  no-quell-partial-fetching
+  no-prune-uses-yyyy-mm
+  no-quit-without-confirm
+  no-quote-replace-nonflowed
+     save-aggregates-copy-sequence
+  no-save-partial-msg-without-confirm
+  no-save-will-advance
+  no-save-will-not-delete
+  no-save-will-quote-leading-froms
+  no-scramble-message-id
+  no-select-without-confirm
+  no-show-cursor
+  no-show-plain-text-internally
+  no-show-selected-in-boldface
+  no-slash-collapses-entire-thread
+  no-quell-attachment-extension-warn
+  no-quell-attachment-extra-prompt
+  no-quell-berkeley-format-timezone
+  no-quell-content-id
+  no-quell-filtering-done-message
+  no-quell-filtering-messages
+  no-quell-imap-envelope-update
+  no-quell-lock-failure-warnings
+  no-quell-maildomain-warning
+  no-quell-news-envelope-update
+  no-quell-status-message-beeping
+  no-quell-timezone-comment-when-sending
+  no-tab-checks-recent
+  no-termdef-takes-precedence
+  no-try-alternative-authentication-driver-first
+  no-unselect-will-not-advance
+  no-use-current-dir
+  no-use-function-keys
+  no-use-regular-startup-rule-for-stayopen-folders
+  no-use-subshell-for-suspend
+  no-use-system-translation
+  no-disable-config-cmd
+  no-disable-keyboard-lock-cmd
+  no-disable-password-cmd
+  no-disable-pipes-in-sigs
+  no-disable-pipes-in-templates
+  no-disable-roles-setup-cmd
+  no-disable-roles-sig-edit
+  no-disable-roles-template-edit
+  no-disable-setlocale-collate
+  no-disable-shared-namespaces
+  no-disable-signature-edit-cmd
+  no-quell-personal-name-prompt
+  no-quell-user-id-prompt
+  no-selectable-item-nobold
+  no-send-confirms-only-expanded
+  no-enable-jump-cmd
+  no-enable-newmail-sound
+Userid: tbp
+Fullname: "Tau Beta Pi"
+User domain name being used "EGR.UH.EDU"
+Local Domain name being used "EGR.UH.EDU"
+Host name being used "Tuxedo.EGR.UH.EDU"
+Mail Domain name being used (by c-client too) "EGR.UH.EDU"
+new win size -----<25 80>------
+Terminal type: ansi
+About to open folder "INBOX"    inbox is: "INBOX"
+IMAP 19:24:25 2/6 mm_log warning: Moved 6579404 bytes of new mail to /Net/hydra/home5/t/tbp/mbox from /var/spool/mail/tbp
+Opened folder "/Net/hydra/home5/t/tbp/mbox" with 3658 messages
+Sorting by Arrival
+Want_to read: Up Arrow (0x40000100)
+Want_to read: Up Arrow (0x40000100)
+Want_to read: Down Arrow (0x40000101)
+---- write_pinerc(Main) ----
+wrote pinerc: /Net/hydra/home5/t/tbp/.pinerc: time_pinerc_written = 1202347438
+
+
+    ---- MAIN_MENU_SCREEN ----
+
+
+ ---- MAIL INDEX ----
+
+
+ ---- INDEX MANAGER ----
+
+
+  -----  MAIL VIEW  -----
+
+
+ ---- MAIL INDEX ----
+
+
+ ---- INDEX MANAGER ----
+
+
+  -----  MAIL VIEW  -----
+
+
+ ---- MAIL INDEX ----
+
+
+ ---- INDEX MANAGER ----
+
+
+  -----  MAIL VIEW  -----
+
+
+ ---- MAIL INDEX ----
+
+
+ ---- INDEX MANAGER ----
+
+
+  -----  MAIL VIEW  -----
+
+
+ ---- MAIL INDEX ----
+
+
+ ---- INDEX MANAGER ----
+MAIL_CMD: going to folder/collection menu
+=== folder_screen called ====
+
+
+    ---- FOLDER LISTER ----
+About to open folder "INBOX"    inbox is: "INBOX"
+
+
+ ---- MAIL INDEX ----
+
+
+ ---- INDEX MANAGER ----
+
+
+  -----  MAIL VIEW  -----
+
+
+ ---- MAIL INDEX ----
+
+
+ ---- INDEX MANAGER ----
+
+
+  -----  MAIL VIEW  -----
+
+
+ ---- MAIL INDEX ----
+
+
+ ---- INDEX MANAGER ----
+
+
+  -----  MAIL VIEW  -----
+
+
+ ---- MAIL INDEX ----
+
+
+ ---- INDEX MANAGER ----
+MAIL_CMD: going to folder/collection menu
+=== folder_screen called ====
+
+
+    ---- FOLDER LISTER ----
+About to open folder "INBOX"    inbox is: "INBOX"
+
+
+ ---- MAIL INDEX ----
+
+
+ ---- INDEX MANAGER ----
+new win size -----<57 80>------
+read_bail: cleaning up
+- completely_done_with_adrbks -
+done with read_bail clean up
+about to end_tty_driver

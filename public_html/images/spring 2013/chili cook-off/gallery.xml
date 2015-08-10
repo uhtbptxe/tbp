@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Spring 2013 Chili Cook-off" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>cc_sp13 (1).jpg</filename><caption> </caption></image>
+<image><filename>cc_sp13 (2).jpg</filename><caption> </caption></image>
+<image><filename>cc_sp13 (3).jpg</filename><caption> </caption></image>
+<image><filename>cc_sp13 (4).jpg</filename><caption> </caption></image>
+<image><filename>cc_sp13 (5).jpg</filename><caption> </caption></image>
+<image><filename>cc_sp13 (6).jpg</filename><caption> </caption></image>
+<image><filename>cc_sp13 (7).jpg</filename><caption> </caption></image>
+<image><filename>cc_sp13 (8).jpg</filename><caption> </caption></image>
+<image><filename>cc_sp13 (9).jpg</filename><caption> </caption></image>
+<image><filename>cc_sp13 (10).jpg</filename><caption> </caption></image>
+<image><filename>cc_sp13 (11).jpg</filename><caption> </caption></image>
+<image><filename>cc_sp13 (12).jpg</filename><caption> </caption></image>
+<image><filename>cc_sp13 (13).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Fall 2005 BOS Party" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>f05bosp (1).jpg</filename><caption> </caption></image>
+<image><filename>f05bosp (2).jpg</filename><caption> </caption></image>
+<image><filename>f05bosp (3).jpg</filename><caption> </caption></image>
+<image><filename>f05bosp (4).jpg</filename><caption> </caption></image>
+<image><filename>f05bosp (5).jpg</filename><caption> </caption></image>
+<image><filename>f05bosp (6).jpg</filename><caption> </caption></image>
+<image><filename>f05bosp (7).jpg</filename><caption> </caption></image>
+<image><filename>f05bosp (8).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

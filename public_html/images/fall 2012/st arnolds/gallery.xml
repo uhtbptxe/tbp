@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Fall 2012 St. Arnold's Brewery" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>sa (1).jpg</filename><caption> </caption></image>
+<image><filename>sa (2).jpg</filename><caption> </caption></image>
+<image><filename>sa (3).jpg</filename><caption> </caption></image>
+<image><filename>sa (4).jpg</filename><caption> </caption></image>
+<image><filename>sa (5).jpg</filename><caption> </caption></image>
+<image><filename>sa (6).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

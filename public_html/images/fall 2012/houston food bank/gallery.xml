@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Fall 2012 Houston Food Bank" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>hf (1).jpg</filename><caption> </caption></image>
+<image><filename>hf (2).jpg</filename><caption> </caption></image>
+<image><filename>hf (3).jpg</filename><caption> </caption></image>
+<image><filename>hf (4).jpg</filename><caption> </caption></image>
+<image><filename>hf (5).jpg</filename><caption> </caption></image>
+<image><filename>hf (6).jpg</filename><caption> </caption></image>
+<image><filename>hf (7).jpg</filename><caption> </caption></image>
+<image><filename>hf (8).jpg</filename><caption> </caption></image>
+<image><filename>hf (9).jpg</filename><caption> </caption></image>
+<image><filename>hf (10).jpg</filename><caption> </caption></image>
+<image><filename>hf (11).jpg</filename><caption> </caption></image>
+<image><filename>hf (12).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

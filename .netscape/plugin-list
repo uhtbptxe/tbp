@@ -1,0 +1,14 @@
+PluginList Version 1
+/usr/local/lib/netscape/plugins/libnullplugin.so 845928812 *: *:All types;
+pluginName=Netscape Default Plugin
+pluginDescription=The default plugin handles plugin data for mimetypes and extensions that are not specified and facilitates downloading of new plugins.
+/usr/local/lib/netscape/plugins/libnullplugin.so.old 848688354 *: *:All types;
+pluginName=Netscape Default Plugin
+pluginDescription=The default plugin handles plugin data for mimetypes and extensions that are not specified and facilitates downloading of new plugins.
+/usr/local/lib/netscape/plugins/nppdf.so 866207434 application/pdf: pdf:Portable Document Format;
+pluginName=nppdf.so
+/usr/local/lib/netscape/plugins/nppdf.so.bak 866207434 application/pdf: pdf:Portable Document Format;
+pluginName=nppdf.so.bak
+/usr/local/lib/netscape/plugins/ump.so 901203264 audio/midi: mid,midi:<A HREF=mailto:hoff@bnl.gov>Larry Hoff's</A> UMP plugin version 1.10; audio/x-midi: mid,midi:<A HREF=mailto:hoff@bnl.gov>Larry Hoff's</A> UMP plugin version 1.10;
+pluginName=UNIX MIDI plugin
+pluginDescription=This plugins plays MIDI, using the timidity toolkit, via the standard audio device.<P>By default, timidity configuration files are in the directory /usr/local/lib/timidity<P>Use the TIMID_DIR environment variable to change the configuration directory.<P>You may set the environment variable TIMID_8K to reduce the sampling rate (to 8000 Hz) for busy or slow processors, or for machines which only support 8KHz.<P>

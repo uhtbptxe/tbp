@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Spring 2013 Initiates Meeting" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>1im1.jpg</filename><caption> </caption></image>
+<image><filename>1im2.jpg</filename><caption> </caption></image>
+<image><filename>1im3.jpg</filename><caption> </caption></image>
+<image><filename>1im4.jpg</filename><caption> </caption></image>
+<image><filename>1im5.jpg</filename><caption> </caption></image>
+<image><filename>1im6.jpg</filename><caption> </caption></image>
+<image><filename>1im7.jpg</filename><caption> </caption></image>
+<image><filename>1im8.jpg</filename><caption> </caption></image>
+<image><filename>1im9.jpg</filename><caption> </caption></image>
+<image><filename>1im10.jpg</filename><caption> </caption></image>
+<image><filename>1im11.jpg</filename><caption> </caption></image>
+<image><filename>1im12.jpg</filename><caption> </caption></image>
+<image><filename>1im13.jpg</filename><caption> </caption></image>
+<image><filename>1im14.jpg</filename><caption> </caption></image>
+<image><filename>1im15.jpg</filename><caption> </caption></image>
+<image><filename>1im16.jpg</filename><caption> </caption></image>
+<image><filename>1im17.jpg</filename><caption> </caption></image>
+<image><filename>1im18.jpg</filename><caption> </caption></image>
+<image><filename>1im19.jpg</filename><caption> </caption></image>
+<image><filename>1im20.jpg</filename><caption> </caption></image>
+<image><filename>2im1.jpg</filename><caption> </caption></image>
+<image><filename>2im2.jpg</filename><caption> </caption></image>
+<image><filename>2im3.jpg</filename><caption> </caption></image>
+<image><filename>2im4.jpg</filename><caption> </caption></image>
+<image><filename>2im5.jpg</filename><caption> </caption></image>
+<image><filename>2im6.jpg</filename><caption> </caption></image>
+</simpleviewergallery>

@@ -1,0 +1,44 @@
+<TOPIC charset C.ISO-8859-1>
+<TITLE><TYPE serif><WEIGHT bold><SIZE 14>
+Welcome to Help Manager
+</SIZE></WEIGHT></TYPE></TITLE>
+<ABBREV>Welcome to the Help Manager</ABBREV> 
+<PARAGRAPH>Each of the titles listed below represents a <ANGLE italic> 
+product family</> that has installed and registered its online help.  Each  
+title (and icon) is a hyperlink that lists the help within the family.</> 
+<PARAGRAPH after 0 first 1 left 3 label "<CHAR C.DT-SYMBOL-1><0xB7></>">To 
+display a list of the help available for a product family, choose its 
+title (underlined text) or icon.</PARAGRAPH>  
+<PARAGRAPH after 0 first 1 left 3 label "<CHAR C.DT-SYMBOL-1><0xB7></>">
+Within a product  
+family, find the help you want to view, then choose its title.</PARAGRAPH> 
+<PARAGRAPH first 1 left 3 label "<CHAR C.DT-SYMBOL-1><0xB7></>"> 
+If you need help while using help windows, press F1.</PARAGRAPH>
+<CHARACTERSET ISO-8859-1>
+<LINK 0 FAMILY0>
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Common Desktop Environment
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1 graphic /usr/dt/appconfig/help/C/cdelogo.pm glink FAMILY0 gtypelink 0>
+Overview and Basic Desktop Skills  * Using Help  * File Manager  * Front Panel  * Application Manager  * Print Manager  * Style Manager  * Mailer  * Text Editor  * Calendar Manager  * Icon Editor  * Terminal Emulator  * Create Action  * Login Manager and Environment Variables Help
+</P></CHARACTERSET>
+<CHARACTERSET iso8859-1>
+<LINK 0 FAMILY1>
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Overview and Basic Desktop Skills
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1 graphic /usr/dt/appconfig/help/C/cdelogo.pm glink FAMILY1 gtypelink 0>
+Overview and Basic Desktop Skills for the                 Common Desktop Environment.
+</P></CHARACTERSET>
+<CHARACTERSET iso8859-1>
+<LINK 0 FAMILY2>
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Digital System Management
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1 graphic /usr/dt/appconfig/icons/C/sysmgtgrp.l.pm glink FAMILY2 gtypelink 0>
+Configuration * Daily Administration * Monitoring and Tuning * Storage Management * Tools
+</P></CHARACTERSET>
+</TOPIC>

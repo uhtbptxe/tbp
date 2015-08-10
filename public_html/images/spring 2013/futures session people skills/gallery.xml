@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Spring 2013 Futures Session: People Skills" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>s13_fsps (1).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (2).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (3).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (4).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (5).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (6).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (7).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (8).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (9).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (10).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (11).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (12).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (13).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (14).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (15).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (16).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (17).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (18).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (19).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (20).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (21).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (22).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (23).jpg</filename><caption> </caption></image>
+<image><filename>s13_fsps (24).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

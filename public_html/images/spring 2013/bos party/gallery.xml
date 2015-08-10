@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Spring 2013 BOS Party" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>bosp (1).jpg</filename><caption> </caption></image>
+<image><filename>bosp (2).jpg</filename><caption> </caption></image>
+<image><filename>bosp (3).jpg</filename><caption> </caption></image>
+<image><filename>bosp (4).jpg</filename><caption> </caption></image>
+<image><filename>bosp (5).jpg</filename><caption> </caption></image>
+<image><filename>bosp (6).jpg</filename><caption> </caption></image>
+<image><filename>bosp (7).jpg</filename><caption> </caption></image>
+<image><filename>bosp (8).jpg</filename><caption> </caption></image>
+<image><filename>bosp (9).jpg</filename><caption> </caption></image>
+<image><filename>bosp (10).jpg</filename><caption> </caption></image>
+<image><filename>bosp (11).jpg</filename><caption> </caption></image>
+<image><filename>bosp (12).jpg</filename><caption> </caption></image>
+<image><filename>bosp (13).jpg</filename><caption> </caption></image>
+<image><filename>bosp (14).jpg</filename><caption> </caption></image>
+<image><filename>bosp (15).jpg</filename><caption> </caption></image>
+<image><filename>bosp (16).jpg</filename><caption> </caption></image>
+<image><filename>bosp (17).jpg</filename><caption> </caption></image>
+<image><filename>bosp (18).jpg</filename><caption> </caption></image>
+<image><filename>bosp (19).jpg</filename><caption> </caption></image>
+<image><filename>bosp (20).jpg</filename><caption> </caption></image>
+<image><filename>bosp (21).jpg</filename><caption> </caption></image>
+<image><filename>bosp (22).jpg</filename><caption> </caption></image>
+<image><filename>bosp (23).jpg</filename><caption> </caption></image>
+<image><filename>bosp (24).jpg</filename><caption> </caption></image>
+<image><filename>bosp (25).jpg</filename><caption> </caption></image>
+<image><filename>bosp (26).jpg</filename><caption> </caption></image>
+<image><filename>bosp (27).jpg</filename><caption> </caption></image>
+<image><filename>bosp (28).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

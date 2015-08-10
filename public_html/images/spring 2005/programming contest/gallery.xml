@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Spring 2005 Programming Contest" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>s05pc (1).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (2).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (3).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (4).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (5).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (6).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (7).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (8).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (9).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (10).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (11).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (12).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (13).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (14).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (15).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (16).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (17).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (18).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (19).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (20).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (21).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (22).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (23).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (24).jpg</filename><caption> </caption></image>
+<image><filename>s05pc (25).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

@@ -1,0 +1,10 @@
+*0*ColorPalette:	Default.dp
+Dtwm*0*FrontPanel*geometry:	-126-0
+Dtwm*0*helpResources:	\n\
+  
+Dtwm*0*initialWorkspace:	ws0
+Dtwm*0*workspaceCount:	4
+dtsession*displayResolution:	3737
+dtsession*sessionLanguage:	C
+*background:	#9900991B99FE
+*foreground:	#FFFFFFFFFFFF

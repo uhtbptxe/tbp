@@ -1,0 +1,49 @@
+!# Last modification time stamp per directory
+*./Net/hydra/home5/t/tbp/.dt/help/tbp-mayfly.egr.uh.edu-0.timeStamp:   939490196
+*./Net/hydra/home5/t/tbp/.dt/help.timeStamp:   939490196
+*./etc/dt/appconfig/help/C.timeStamp:   835994918
+*./usr/dt/appconfig/help/C.timeStamp:   838402301
+*.charSet:	C.ISO-8859-1
+
+!# Topic filenames and offsets
+*.FAMILY0.filepos: 0
+*.FAMILY0.filename: browser01.ht
+*.FAMILY1.filepos: 5670
+*.FAMILY1.filename: browser01.ht
+*.FAMILY2.filepos: 6308
+*.FAMILY2.filename: browser01.ht
+
+
+!# Top (or home) topic filename and offset
+*._HOMETOPIC.filepos:   0
+*._HOMETOPIC.filename:  browser00.ht
+
+
+!# Volume Title
+*.title:     Help - Top Level
+
+
+!# Topic Home Location
+*.topTopic:  _HOMETOPIC
+
+
+!# Topic Heirarchy
+*._HOMETOPIC.parent:  
+*.FAMILY0.parent: _HOMETOPIC
+*.FAMILY1.parent: _HOMETOPIC
+*.FAMILY2.parent: _HOMETOPIC
+
+
+!# Topic List
+*.topicList: _HOMETOPIC \
+	FAMILY0 \
+	FAMILY1 \
+	FAMILY2
+
+
+!# Paths Searched
+*.dirList:  \
+	/Net/hydra/home5/t/tbp/.dt/help/tbp-mayfly.egr.uh.edu-0 \
+	/Net/hydra/home5/t/tbp/.dt/help \
+	/etc/dt/appconfig/help/C \
+	/usr/dt/appconfig/help/C

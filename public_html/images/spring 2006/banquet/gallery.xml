@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Spring 2006 Banquet" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>s06b (1).jpg</filename><caption> </caption></image>
+<image><filename>s06b (2).jpg</filename><caption> </caption></image>
+<image><filename>s06b (3).jpg</filename><caption> </caption></image>
+<image><filename>s06b (4).jpg</filename><caption> </caption></image>
+<image><filename>s06b (5).jpg</filename><caption> </caption></image>
+<image><filename>s06b (6).jpg</filename><caption> </caption></image>
+<image><filename>s06b (7).jpg</filename><caption> </caption></image>
+<image><filename>s06b (8).jpg</filename><caption> </caption></image>
+<image><filename>s06b (9).jpg</filename><caption> </caption></image>
+<image><filename>s06b (10).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

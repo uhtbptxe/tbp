@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Spring 2014 Futures Session" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>fs1.jpg</filename><caption> </caption></image>
+<image><filename>fs2.jpg</filename><caption> </caption></image>
+<image><filename>fs3.jpg</filename><caption> </caption></image>
+<image><filename>fs4.jpg</filename><caption> </caption></image>
+<image><filename>fs5.jpg</filename><caption> </caption></image>
+<image><filename>fs6.jpg</filename><caption> </caption></image>
+<image><filename>fs7.jpg</filename><caption> </caption></image>
+<image><filename>fs8.jpg</filename><caption> </caption></image>
+<image><filename>fs9.jpg</filename><caption> </caption></image>
+<image><filename>fs10.jpg</filename><caption> </caption></image>
+<image><filename>fs11.jpg</filename><caption> </caption></image>
+<image><filename>fs12.jpg</filename><caption> </caption></image>
+<image><filename>fs13.jpg</filename><caption> </caption></image>
+<image><filename>fs14.jpg</filename><caption> </caption></image>
+<image><filename>fs15.jpg</filename><caption> </caption></image>
+<image><filename>fs16.jpg</filename><caption> </caption></image>
+</simpleviewergallery>

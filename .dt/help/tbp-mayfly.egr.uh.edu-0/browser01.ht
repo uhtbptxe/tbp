@@ -1,0 +1,447 @@
+<TOPIC charset ISO-8859-1>
+<TITLE><TYPE serif><WEIGHT bold><SIZE 14>
+Common Desktop Environment
+</SIZE></WEIGHT></TYPE></TITLE>
+<P before 1 first 1 left 1>
+Overview and Basic Desktop Skills  * Using Help  * File Manager  * Front Panel  * Application Manager  * Print Manager  * Style Manager  * Mailer  * Text Editor  * Calendar Manager  * Icon Editor  * Terminal Emulator  * Create Action  * Login Manager and Environment Variables Help
+</P>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Intromgr.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Introducing the Desktop
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+This help volume describes features of the desktop and the basic skills required to use them.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Help4Help.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Desktop Help System
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Help for using the Common Desktop Environment Help System
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Filemgr.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+File Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Basic File Management Skills * Using the Desktop * Using the Trash Can * Locating Files * File Manager Reference
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "FPanel.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Front Panel Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Using the Front Panel * Customizing the Front Panel * Front Panel Reference
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Appmanager.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Application Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Using the Application Manager * Application Manager Reference
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Printmgr.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Printing Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Printing * Cancelling Print Jobs * Finding Print Jobs * Print Manager Reference
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Stylemgr.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Style Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Changing Colors * Creating Custom Palettes * Changing Workspace Backdrops * Choosing a Font Size * Customizing System Behavior (Keyboard, Mouse, Audio) * Changing Window Behavior * Style Manager Reference
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Mailer.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Mailer Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+This help volume provides information about using Mailer to send, receive, and save messages, and to customize Mailer properties. 
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Textedit.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Text Editor Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Starting Text Editor * Opening and Saving Documents * Creating and Editing Documents * Formatting and Printing Documents * Text Editor Reference
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Calendar.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Calendar Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+This help volume provides information about using Calendar to schedule appointments and To Do items, trigger reminders, schedule group appointments, and view and print your calendar.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Iconed.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Icon Editor Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Creating and Editing Icons * Color Usage in Icons * How Icons are Found * Icon Editor Reference
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Terminal.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Terminal Emulator Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Using Terminal Emulators * Configuring Terminal Emulators * dtterm 1x man page * Terminal Escape Sequences
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "CreatAct.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Create Action Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Using the Create Action application to create actions and data types
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Loginmgr.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Login Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+* Starting and Ending Desktop Sessions * Customizing Login Manager Behavior * Login Manager Reference
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+</PARAGRAPH>
+</TOPIC>
+<TOPIC charset iso8859-1>
+<TITLE><TYPE serif><WEIGHT bold><SIZE 14>
+Overview and Basic Desktop Skills
+</SIZE></WEIGHT></TYPE></TITLE>
+<P before 1 first 1 left 1>
+Overview and Basic Desktop Skills for the                 Common Desktop Environment.
+</P>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Intromgr.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Introducing the Desktop
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+This help volume describes features of the desktop and the basic skills required to use them.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+</PARAGRAPH>
+</TOPIC>
+<TOPIC charset iso8859-1>
+<TITLE><TYPE serif><WEIGHT bold><SIZE 14>
+Digital System Management
+</SIZE></WEIGHT></TYPE></TITLE>
+<P before 1 first 1 left 1>
+Configuration * Daily Administration * Monitoring and Tuning * Storage Management * Tools
+</P>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Dxsysman.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Welcome to SysMan
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Welcome to SysMan is an overview of SysMan, the suite of applications for managing Digital UNIX systems.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Dxaccounts.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Account Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use Account Manager to manage user and group accounts on your Digital UNIX system. Account Manager operates on either base security level systems or Enhanced Security level systems for both the local and Network Information Service (NIS) account databases. Account Manager is in the Daily Administration group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Dxaccounts_c2.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Account Manager (EnhancedSecurity) Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use Account Manager to manage user and group accounts on your Digital UNIX system. Account Manager operates on either base security level systems or Enhanced Security level systems for both the local and Network Information Service (NIS) account databases. Account Manager is in the Daily Administration group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Dxarchiver.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Archiver Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use Archiver to copy and store multiple files to a single, named archive file or output device such as a tape or floppy disk and to retrieve archived files. Archiver is in the Daily Administration group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "BindConfig.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+BIND Configuration Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+BIND Configuration Manager is used by the system administrator or UNIX system manager to configure Berkeley Internet Name Domain (BIND) services for a single system. BIND Configuration Manager is in the Configuration group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Checklist.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+SysMan Configuration Checklist Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use SysMan Configuration Checklist to configure your system using the listed applications.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "DiskConfig.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Disk Configuration Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use Disk Configuration Manager during installation setup to facilitate the partitioning of disk devices on the system. Then use Disk Configuration Manager to manage the configuration of disk devices on the system. Disk Configuration Manager is in the Configuration group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Dxdw.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Display Window Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use Display Window to run commands such as iostat, netstat, vmstat, and who at regular intervals and to display the output from these commands in a transcript area. Display Window is in the Daily Administration group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Dxfileshare.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+File Sharing Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use File Sharing to share local and remote directories across an NFS network. File Sharing is in the Daily Administration group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Dxhosts.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Host Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use Host Manager to display icons for hosts that are known to the local system, or hosts that you specify. You can Add or delete a host from the list of preferred hosts, enable or disable access to the X display, login to selected remote hosts, and start applications remotely using the Host Manager application. Host Manager is in the Daily Administration group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Install.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Installation Setup Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use Installation Setup to set up and perform either a default or custom installation for your system.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Dxkerneltuner.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Kernel Tuner Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use Kernel Tuner to display and modify boot time and current values of kernel subsystem attributes. Kernel Tuner is in the Monitoring and Tuning group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Dxlicenses.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+License Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Help volume for License Manager. Use License Manager to add, list, issue, and delete software product licenses.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "MailConfig.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Mail Configuration Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use Mail Configuration to set up the routing and delivery of mail for your system. Mail Configuration is in the Configuration group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "NetConfig.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Network Configuration Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use Network Configuration Manager to configure and manage the Transmission Control Protocol/Internet Protocol (TCP/IP) on a Digital UNIX system. Network Configuration Manager is in the Configuration group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "NfsConfig.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+NFS Configuration Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use NFS Configuration Manager to manage NFS configuration issues. NFS Configuration Manager is in the Configuration Group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "PrintConfig.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Printer Configuration Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use Printer Configuration to manage printer configurations for local and remote devices. Printer Configuration is in the Configuration group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Dxproctuner.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Process Tuner Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use Process Tuner to display processes, send signals to processes, and change the priorities of processes. Process Tuner is in the Monitoring and Tuning group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "DXshutdown.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+Shutdown Manager Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Help volume for Shutdown Manager. Use Shutdown Manager to perform the following types of automated system shutdown: halt (and start console mode), reboot, single-user mode shutdown, and message-only shutdown.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+<CHARACTERSET C.ISO-8859-1>
+<LINK 0 "Dxsysinfo.sdl _hometopic">
+<TYPE serif><WEIGHT bold><SIZE 12><ANGLE italic>
+System Information Help
+</ANGLE></SIZE></WEIGHT></TYPE>
+</LINK>
+<P before 1 first 1 left 1>
+<CHARACTERSET C.ISO-8859-1>
+Use System Information to display the operating system version and amount of RAM (random access memory); to monitor CPU activity, free memory, used swap space, and file system utilization; and to display the names of disk and tape devices. System Information is in the Daily Administration group.
+</CHARACTERSET>
+</P>
+</CHARACTERSET>
+</PARAGRAPH>
+</TOPIC>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Spring 2010 Bent Polish" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>bp (1).jpg</filename><caption> </caption></image>
+<image><filename>bp (2).jpg</filename><caption> </caption></image>
+<image><filename>bp (3).jpg</filename><caption> </caption></image>
+<image><filename>bp (4).jpg</filename><caption> </caption></image>
+<image><filename>bp (5).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

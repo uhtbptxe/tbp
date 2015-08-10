@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Fall 2012 Futures Session Analyticals" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>fsa (1).jpg</filename><caption> </caption></image>
+<image><filename>fsa (2).jpg</filename><caption> </caption></image>
+<image><filename>fsa (3).jpg</filename><caption> </caption></image>
+<image><filename>fsa (4).jpg</filename><caption> </caption></image>
+<image><filename>fsa (5).jpg</filename><caption> </caption></image>
+<image><filename>fsa (6).jpg</filename><caption> </caption></image>
+<image><filename>fsa (7).jpg</filename><caption> </caption></image>
+<image><filename>fsa (8).jpg</filename><caption> </caption></image>
+<image><filename>fsa (9).jpg</filename><caption> </caption></image>
+<image><filename>fsa (10).jpg</filename><caption> </caption></image>
+<image><filename>fsa (11).jpg</filename><caption> </caption></image>
+<image><filename>fsa (12).jpg</filename><caption> </caption></image>
+<image><filename>fsa (13).jpg</filename><caption> </caption></image>
+<image><filename>fsa (14).jpg</filename><caption> </caption></image>
+<image><filename>fsa (15).jpg</filename><caption> </caption></image>
+<image><filename>fsa (16).jpg</filename><caption> </caption></image>
+<image><filename>fsa (17).jpg</filename><caption> </caption></image>
+<image><filename>fsa (18).jpg</filename><caption> </caption></image>
+<image><filename>fsa (19).jpg</filename><caption> </caption></image>
+<image><filename>fsa (20).jpg</filename><caption> </caption></image>
+<image><filename>fsa (21).jpg</filename><caption> </caption></image>
+<image><filename>fsa (22).jpg</filename><caption> </caption></image>
+<image><filename>fsa (23).jpg</filename><caption> </caption></image>
+<image><filename>fsa (24).jpg</filename><caption> </caption></image>
+<image><filename>fsa (25).jpg</filename><caption> </caption></image>
+<image><filename>fsa (26).jpg</filename><caption> </caption></image>
+<image><filename>fsa (27).jpg</filename><caption> </caption></image>
+<image><filename>fsa (28).jpg</filename><caption> </caption></image>
+<image><filename>fsa (29).jpg</filename><caption> </caption></image>
+<image><filename>fsa (30).jpg</filename><caption> </caption></image>
+<image><filename>fsa (31).jpg</filename><caption> </caption></image>
+</simpleviewergallery>

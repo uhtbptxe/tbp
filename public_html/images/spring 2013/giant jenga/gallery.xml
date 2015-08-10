@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<simpleviewergallery 
+maxImageWidth="2000" 
+maxImageHeight="2000" 
+textColor="0xFFFFFF" 
+frameColor="0xFFFFFF" 
+frameWidth="10" 
+stagePadding="40" 
+navPadding="40" 
+thumbnailColumns="4" 
+thumbnailRows="4" 
+navPosition="left" 
+vAlign="center"
+hAlign="center" 
+title="Spring 2013 Giant Jenga" 
+enableRightClickOpen="true" 
+backgroundImagePath="" 
+imagePath="" 
+thumbPath="">
+
+<image><filename>gj1.jpg</filename><caption> </caption></image>
+<image><filename>gj2.jpg</filename><caption> </caption></image>
+<image><filename>gj3.jpg</filename><caption> </caption></image>
+<image><filename>gj4.jpg</filename><caption> </caption></image>
+<image><filename>gj5.jpg</filename><caption> </caption></image>
+<image><filename>gj6.jpg</filename><caption> </caption></image>
+<image><filename>gj7.jpg</filename><caption> </caption></image>
+<image><filename>gj8.jpg</filename><caption> </caption></image>
+<image><filename>gj9.jpg</filename><caption> </caption></image>
+<image><filename>gj10.jpg</filename><caption> </caption></image>
+<image><filename>gj11.jpg</filename><caption> </caption></image>
+<image><filename>gj12.jpg</filename><caption> </caption></image>
+<image><filename>gj13.jpg</filename><caption> </caption></image>
+<image><filename>gj14.jpg</filename><caption> </caption></image>
+<image><filename>gj15.jpg</filename><caption> </caption></image>
+<image><filename>gj16.jpg</filename><caption> </caption></image>
+<image><filename>gj17.jpg</filename><caption> </caption></image>
+<image><filename>gj18.jpg</filename><caption> </caption></image>
+<image><filename>gj19.jpg</filename><caption> </caption></image>
+<image><filename>gj20.jpg</filename><caption> </caption></image>
+</simpleviewergallery>
